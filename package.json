@@ -1,0 +1,24 @@
+{
+  "name": "html5-geolocation-tool-js",
+  "version": "0.0.0",
+  "description": "html5-geolocation-tool-js =========================",
+  "main": "web.js",
+  "dependencies": {
+    "cheerio": "~0.12.0",
+    "commander": "~2.0.0",
+    "express": "~3.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimis40/html5-geolocation-tool-js"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dimis40/html5-geolocation-tool-js/issues"
+  }
+}
